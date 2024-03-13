@@ -1,0 +1,9103 @@
+Time 1
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 2
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 3
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 4
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 5
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 6
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 7
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 8
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 9
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 10
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 11
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 12
+Queue:1: 
+(19 12 7)
+
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 13
+Queue:1: 
+(19 12 7)
+
+Queue:2: 
+(12 13 7)
+
+Queue:3: 
+(62 13 3)
+
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 14
+Queue:1: 
+(19 12 7)
+
+Queue:2: 
+(12 13 7)
+
+Queue:3: 
+(62 13 3)
+
+Queue:4: 
+(55 14 7)
+
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 15
+Queue:1: 
+(19 12 7)
+
+Queue:2: 
+(12 13 7)
+
+Queue:3: 
+(62 13 3)
+
+Queue:4: 
+(55 14 7)
+
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 16
+Queue:1: 
+(19 12 7)
+
+Queue:2: 
+(12 13 7)
+
+Queue:3: 
+(62 13 3)
+
+Queue:4: 
+(55 14 7)
+
+Queue:5: 
+(39 16 7)
+
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 17
+Queue:1: 
+(19 12 7)
+
+Queue:2: 
+(12 13 7)
+
+Queue:3: 
+closed
+Queue:4: 
+(55 14 7)
+
+Queue:5: 
+(39 16 7)
+
+Queue:6: 
+(20 17 4)
+
+Queue:7: 
+(63 17 8)
+
+Queue:8: 
+(66 17 5)
+
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 18
+Queue:1: 
+(19 12 7)
+
+Queue:2: 
+(12 13 7)
+
+Queue:3: 
+closed
+Queue:4: 
+(55 14 7)
+
+Queue:5: 
+(39 16 7)
+
+Queue:6: 
+(20 17 4)
+
+Queue:7: 
+(63 17 8)
+
+Queue:8: 
+(66 17 5)
+
+Queue:9: 
+(41 18 9)
+
+Queue:10: 
+(68 18 9)
+
+Queue:11: 
+(82 18 4)
+
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 19
+Queue:1: 
+(19 12 7)
+
+Queue:2: 
+(12 13 7)
+
+Queue:3: 
+closed
+Queue:4: 
+(55 14 7)
+
+Queue:5: 
+(39 16 7)
+
+Queue:6: 
+(20 17 4)
+
+Queue:7: 
+(63 17 8)
+
+Queue:8: 
+(66 17 5)
+
+Queue:9: 
+(41 18 9)
+
+Queue:10: 
+(68 18 9)
+
+Queue:11: 
+(82 18 4)
+
+Queue:12: 
+(15 19 7)
+
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 20
+Queue:1: 
+closed
+Queue:2: 
+(12 13 7)
+
+Queue:3: 
+closed
+Queue:4: 
+(55 14 7)
+
+Queue:5: 
+(39 16 7)
+
+Queue:6: 
+(20 17 4)
+
+Queue:7: 
+(63 17 8)
+
+Queue:8: 
+(66 17 5)
+
+Queue:9: 
+(41 18 9)
+
+Queue:10: 
+(68 18 9)
+
+Queue:11: 
+(82 18 4)
+
+Queue:12: 
+(15 19 7)
+
+Queue:13: 
+(47 20 5)
+
+Queue:14: 
+(92 20 7)
+
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 21
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+(55 14 7)
+
+Queue:5: 
+(39 16 7)
+
+Queue:6: 
+(20 17 4)
+
+Queue:7: 
+(63 17 8)
+
+Queue:8: 
+(66 17 5)
+
+Queue:9: 
+(41 18 9)
+
+Queue:10: 
+(68 18 9)
+
+Queue:11: 
+(82 18 4)
+
+Queue:12: 
+(15 19 7)
+
+Queue:13: 
+(47 20 5)
+
+Queue:14: 
+(92 20 7)
+
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 22
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+(39 16 7)
+
+Queue:6: 
+closed
+Queue:7: 
+(63 17 8)
+
+Queue:8: 
+(66 17 5)
+
+Queue:9: 
+(41 18 9)
+
+Queue:10: 
+(68 18 9)
+
+Queue:11: 
+(82 18 4)
+
+Queue:12: 
+(15 19 7)
+
+Queue:13: 
+(47 20 5)
+
+Queue:14: 
+(92 20 7)
+
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 23
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+(39 16 7)
+
+Queue:6: 
+closed
+Queue:7: 
+(63 17 8)
+
+Queue:8: 
+closed
+Queue:9: 
+(41 18 9)
+
+Queue:10: 
+(68 18 9)
+
+Queue:11: 
+closed
+Queue:12: 
+(15 19 7)
+
+Queue:13: 
+(47 20 5)
+
+Queue:14: 
+(92 20 7)
+
+Queue:15: 
+(1 23 3)
+
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 24
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+(63 17 8)
+
+Queue:8: 
+closed
+Queue:9: 
+(41 18 9)
+
+Queue:10: 
+(68 18 9)
+
+Queue:11: 
+closed
+Queue:12: 
+(15 19 7)
+
+Queue:13: 
+(47 20 5)
+
+Queue:14: 
+(92 20 7)
+
+Queue:15: 
+(1 23 3)
+
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 25
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+(63 17 8)
+
+Queue:8: 
+closed
+Queue:9: 
+(41 18 9)
+
+Queue:10: 
+(68 18 9)
+
+Queue:11: 
+closed
+Queue:12: 
+(15 19 7)
+
+Queue:13: 
+(47 20 5)
+
+Queue:14: 
+(92 20 7)
+
+Queue:15: 
+(1 23 3)
+(89 25 4)
+
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 26
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+(41 18 9)
+
+Queue:10: 
+(68 18 9)
+
+Queue:11: 
+closed
+Queue:12: 
+(15 19 7)
+
+Queue:13: 
+closed
+Queue:14: 
+(92 20 7)
+
+Queue:15: 
+(1 23 3)
+(89 25 4)
+
+Queue:16: 
+(17 26 3)
+
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 27
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+(41 18 9)
+
+Queue:10: 
+(68 18 9)
+
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+(92 20 7)
+
+Queue:15: 
+(89 25 4)
+
+Queue:16: 
+(17 26 3)
+
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 28
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+(89 25 4)
+
+Queue:16: 
+(17 26 3)
+(38 28 6)
+
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 29
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+(89 25 4)
+
+Queue:16: 
+(17 26 3)
+(38 28 6)
+
+Queue:17: 
+(13 29 3)
+
+Queue:18: 
+(50 29 8)
+
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 30
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+(89 25 4)
+
+Queue:16: 
+(38 28 6)
+
+Queue:17: 
+(13 29 3)
+
+Queue:18: 
+(50 29 8)
+
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 31
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+(89 25 4)
+
+Queue:16: 
+(38 28 6)
+
+Queue:17: 
+(13 29 3)
+
+Queue:18: 
+(50 29 8)
+
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 32
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+(89 25 4)
+
+Queue:16: 
+(38 28 6)
+
+Queue:17: 
+(13 29 3)
+
+Queue:18: 
+(50 29 8)
+
+Queue:19: 
+(9 32 8)
+
+Queue:20: 
+closed
+Time 33
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+(38 28 6)
+
+Queue:17: 
+closed
+Queue:18: 
+(50 29 8)
+
+Queue:19: 
+(9 32 8)
+
+Queue:20: 
+(74 33 7)
+
+Time 34
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+(46 34 6)
+
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+(38 28 6)
+
+Queue:17: 
+(25 34 3)
+(27 34 7)
+
+Queue:18: 
+(50 29 8)
+
+Queue:19: 
+(9 32 8)
+
+Queue:20: 
+(74 33 7)
+
+Time 35
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+(46 34 6)
+
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+(40 35 6)
+
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+(38 28 6)
+
+Queue:17: 
+(25 34 3)
+(27 34 7)
+
+Queue:18: 
+(50 29 8)
+
+Queue:19: 
+(9 32 8)
+
+Queue:20: 
+(74 33 7)
+
+Time 36
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+(46 34 6)
+
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+(40 35 6)
+
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+(38 28 6)
+
+Queue:17: 
+(25 34 3)
+(27 34 7)
+
+Queue:18: 
+(50 29 8)
+
+Queue:19: 
+(9 32 8)
+
+Queue:20: 
+(74 33 7)
+
+Time 37
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+(46 34 6)
+
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+(40 35 6)
+(43 37 8)
+
+Queue:12: 
+closed
+Queue:13: 
+(79 37 7)
+
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+(38 28 6)
+
+Queue:17: 
+(25 34 3)
+(27 34 7)
+
+Queue:18: 
+(50 29 8)
+
+Queue:19: 
+(9 32 8)
+
+Queue:20: 
+(74 33 7)
+
+Time 38
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+(46 34 6)
+
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+(40 35 6)
+(43 37 8)
+
+Queue:12: 
+closed
+Queue:13: 
+(79 37 7)
+(86 38 4)
+
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+(27 34 7)
+
+Queue:18: 
+closed
+Queue:19: 
+(9 32 8)
+
+Queue:20: 
+(74 33 7)
+
+Time 39
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+(46 34 6)
+
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+(40 35 6)
+(43 37 8)
+
+Queue:12: 
+closed
+Queue:13: 
+(79 37 7)
+(86 38 4)
+
+Queue:14: 
+(35 39 8)
+
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+(27 34 7)
+
+Queue:18: 
+closed
+Queue:19: 
+(9 32 8)
+
+Queue:20: 
+(74 33 7)
+
+Time 40
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+(46 34 6)
+
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+(40 35 6)
+(43 37 8)
+
+Queue:12: 
+closed
+Queue:13: 
+(79 37 7)
+(86 38 4)
+
+Queue:14: 
+(35 39 8)
+
+Queue:15: 
+(14 40 3)
+
+Queue:16: 
+closed
+Queue:17: 
+(27 34 7)
+
+Queue:18: 
+closed
+Queue:19: 
+(9 32 8)
+
+Queue:20: 
+(74 33 7)
+
+Time 41
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+(40 35 6)
+(43 37 8)
+
+Queue:12: 
+closed
+Queue:13: 
+(79 37 7)
+(86 38 4)
+
+Queue:14: 
+(35 39 8)
+
+Queue:15: 
+(14 40 3)
+(73 41 7)
+
+Queue:16: 
+closed
+Queue:17: 
+(27 34 7)
+
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 42
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+(43 37 8)
+
+Queue:12: 
+closed
+Queue:13: 
+(79 37 7)
+(86 38 4)
+
+Queue:14: 
+(35 39 8)
+
+Queue:15: 
+(14 40 3)
+(73 41 7)
+
+Queue:16: 
+closed
+Queue:17: 
+(27 34 7)
+
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 43
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+(37 43 5)
+
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+(43 37 8)
+
+Queue:12: 
+closed
+Queue:13: 
+(79 37 7)
+(86 38 4)
+
+Queue:14: 
+(35 39 8)
+
+Queue:15: 
+(14 40 3)
+(73 41 7)
+
+Queue:16: 
+closed
+Queue:17: 
+(27 34 7)
+
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 44
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+(37 43 5)
+
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+(43 37 8)
+
+Queue:12: 
+closed
+Queue:13: 
+(79 37 7)
+(86 38 4)
+
+Queue:14: 
+(35 39 8)
+
+Queue:15: 
+(73 41 7)
+
+Queue:16: 
+closed
+Queue:17: 
+(27 34 7)
+
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 45
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+(37 43 5)
+
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+(43 37 8)
+
+Queue:12: 
+(24 45 7)
+
+Queue:13: 
+(86 38 4)
+
+Queue:14: 
+(35 39 8)
+
+Queue:15: 
+(73 41 7)
+
+Queue:16: 
+closed
+Queue:17: 
+(27 34 7)
+
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 46
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+(37 43 5)
+(51 46 7)
+
+Queue:7: 
+closed
+Queue:8: 
+(3 46 8)
+(32 46 9)
+
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+(43 37 8)
+
+Queue:12: 
+(24 45 7)
+
+Queue:13: 
+(86 38 4)
+
+Queue:14: 
+(35 39 8)
+
+Queue:15: 
+(73 41 7)
+
+Queue:16: 
+closed
+Queue:17: 
+(27 34 7)
+
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 47
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+(37 43 5)
+(51 46 7)
+
+Queue:7: 
+closed
+Queue:8: 
+(3 46 8)
+(32 46 9)
+
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+(43 37 8)
+
+Queue:12: 
+(24 45 7)
+
+Queue:13: 
+(86 38 4)
+
+Queue:14: 
+(35 39 8)
+
+Queue:15: 
+(73 41 7)
+
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 48
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+(7 48 4)
+
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+(37 43 5)
+(51 46 7)
+
+Queue:7: 
+closed
+Queue:8: 
+(3 46 8)
+(32 46 9)
+
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+(43 37 8)
+
+Queue:12: 
+(24 45 7)
+
+Queue:13: 
+(86 38 4)
+
+Queue:14: 
+closed
+Queue:15: 
+(73 41 7)
+
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 49
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+(7 48 4)
+(58 49 6)
+
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+(51 46 7)
+
+Queue:7: 
+closed
+Queue:8: 
+(3 46 8)
+(32 46 9)
+
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+(43 37 8)
+
+Queue:12: 
+(24 45 7)
+
+Queue:13: 
+(86 38 4)
+
+Queue:14: 
+closed
+Queue:15: 
+(73 41 7)
+
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 50
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+(7 48 4)
+(58 49 6)
+(59 50 9)
+
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+(51 46 7)
+
+Queue:7: 
+closed
+Queue:8: 
+(3 46 8)
+(32 46 9)
+
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+(43 37 8)
+
+Queue:12: 
+(24 45 7)
+
+Queue:13: 
+(86 38 4)
+
+Queue:14: 
+closed
+Queue:15: 
+(73 41 7)
+
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 51
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+(7 48 4)
+(58 49 6)
+(59 50 9)
+
+Queue:4: 
+(54 51 8)
+
+Queue:5: 
+closed
+Queue:6: 
+(51 46 7)
+
+Queue:7: 
+closed
+Queue:8: 
+(3 46 8)
+(32 46 9)
+
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+(43 37 8)
+
+Queue:12: 
+(24 45 7)
+
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+(73 41 7)
+
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 52
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+(7 48 4)
+(58 49 6)
+(59 50 9)
+
+Queue:4: 
+(54 51 8)
+
+Queue:5: 
+(6 52 6)
+
+Queue:6: 
+(51 46 7)
+
+Queue:7: 
+closed
+Queue:8: 
+(3 46 8)
+(32 46 9)
+
+Queue:9: 
+closed
+Queue:10: 
+(44 52 9)
+
+Queue:11: 
+closed
+Queue:12: 
+(24 45 7)
+
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+(73 41 7)
+
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 53
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+(58 49 6)
+(59 50 9)
+
+Queue:4: 
+(54 51 8)
+
+Queue:5: 
+(6 52 6)
+
+Queue:6: 
+(51 46 7)
+
+Queue:7: 
+closed
+Queue:8: 
+(3 46 8)
+(32 46 9)
+
+Queue:9: 
+closed
+Queue:10: 
+(44 52 9)
+
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+(2 53 4)
+
+Queue:17: 
+closed
+Queue:18: 
+(10 53 9)
+
+Queue:19: 
+closed
+Queue:20: 
+(71 53 7)
+
+Time 54
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+(58 49 6)
+(59 50 9)
+
+Queue:4: 
+(54 51 8)
+
+Queue:5: 
+(6 52 6)
+
+Queue:6: 
+(51 46 7)
+
+Queue:7: 
+closed
+Queue:8: 
+(3 46 8)
+(32 46 9)
+
+Queue:9: 
+closed
+Queue:10: 
+(44 52 9)
+
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+(2 53 4)
+
+Queue:17: 
+closed
+Queue:18: 
+(10 53 9)
+
+Queue:19: 
+closed
+Queue:20: 
+(71 53 7)
+
+Time 55
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+(58 49 6)
+(59 50 9)
+
+Queue:4: 
+(54 51 8)
+
+Queue:5: 
+(6 52 6)
+
+Queue:6: 
+(51 46 7)
+
+Queue:7: 
+(52 55 7)
+
+Queue:8: 
+(32 46 9)
+
+Queue:9: 
+(72 55 9)
+
+Queue:10: 
+(44 52 9)
+
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+(2 53 4)
+
+Queue:17: 
+closed
+Queue:18: 
+(10 53 9)
+
+Queue:19: 
+closed
+Queue:20: 
+(71 53 7)
+(8 55 8)
+
+Time 56
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+(58 49 6)
+(59 50 9)
+
+Queue:4: 
+(54 51 8)
+
+Queue:5: 
+(6 52 6)
+
+Queue:6: 
+(51 46 7)
+
+Queue:7: 
+(52 55 7)
+
+Queue:8: 
+(32 46 9)
+
+Queue:9: 
+(72 55 9)
+
+Queue:10: 
+(44 52 9)
+
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+(2 53 4)
+
+Queue:17: 
+closed
+Queue:18: 
+(10 53 9)
+
+Queue:19: 
+closed
+Queue:20: 
+(71 53 7)
+(8 55 8)
+
+Time 57
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+(58 49 6)
+(59 50 9)
+
+Queue:4: 
+(54 51 8)
+
+Queue:5: 
+(6 52 6)
+
+Queue:6: 
+(51 46 7)
+
+Queue:7: 
+(52 55 7)
+
+Queue:8: 
+(32 46 9)
+
+Queue:9: 
+(72 55 9)
+
+Queue:10: 
+(44 52 9)
+
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+(75 57 8)
+
+Queue:15: 
+closed
+Queue:16: 
+(2 53 4)
+
+Queue:17: 
+closed
+Queue:18: 
+(10 53 9)
+
+Queue:19: 
+closed
+Queue:20: 
+(71 53 7)
+(8 55 8)
+
+Time 58
+Queue:1: 
+closed
+Queue:2: 
+(31 58 4)
+
+Queue:3: 
+(58 49 6)
+(59 50 9)
+
+Queue:4: 
+(54 51 8)
+
+Queue:5: 
+(6 52 6)
+
+Queue:6: 
+closed
+Queue:7: 
+(52 55 7)
+
+Queue:8: 
+(32 46 9)
+
+Queue:9: 
+(72 55 9)
+
+Queue:10: 
+(44 52 9)
+
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+(75 57 8)
+
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+(10 53 9)
+
+Queue:19: 
+(67 58 7)
+
+Queue:20: 
+(71 53 7)
+(8 55 8)
+
+Time 59
+Queue:1: 
+closed
+Queue:2: 
+(31 58 4)
+
+Queue:3: 
+(58 49 6)
+(59 50 9)
+
+Queue:4: 
+(54 51 8)
+
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+(52 55 7)
+
+Queue:8: 
+(32 46 9)
+
+Queue:9: 
+(72 55 9)
+
+Queue:10: 
+(44 52 9)
+
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+(75 57 8)
+
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+(10 53 9)
+
+Queue:19: 
+(67 58 7)
+
+Queue:20: 
+(71 53 7)
+(8 55 8)
+
+Time 60
+Queue:1: 
+(65 60 9)
+
+Queue:2: 
+(31 58 4)
+
+Queue:3: 
+(58 49 6)
+(59 50 9)
+
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+(52 55 7)
+
+Queue:8: 
+(32 46 9)
+
+Queue:9: 
+(72 55 9)
+
+Queue:10: 
+(44 52 9)
+
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+(75 57 8)
+
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+(10 53 9)
+
+Queue:19: 
+(67 58 7)
+
+Queue:20: 
+(71 53 7)
+(8 55 8)
+
+Time 61
+Queue:1: 
+(65 60 9)
+
+Queue:2: 
+(31 58 4)
+(80 61 9)
+
+Queue:3: 
+(59 50 9)
+
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+(52 55 7)
+
+Queue:8: 
+(32 46 9)
+
+Queue:9: 
+(72 55 9)
+
+Queue:10: 
+(44 52 9)
+
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+(81 61 9)
+
+Queue:14: 
+(75 57 8)
+
+Queue:15: 
+closed
+Queue:16: 
+(100 61 5)
+
+Queue:17: 
+closed
+Queue:18: 
+(10 53 9)
+
+Queue:19: 
+(67 58 7)
+
+Queue:20: 
+(8 55 8)
+
+Time 62
+Queue:1: 
+(65 60 9)
+
+Queue:2: 
+(31 58 4)
+(80 61 9)
+
+Queue:3: 
+(59 50 9)
+
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+(52 55 7)
+
+Queue:8: 
+(32 46 9)
+
+Queue:9: 
+(72 55 9)
+
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+(81 61 9)
+
+Queue:14: 
+(75 57 8)
+
+Queue:15: 
+closed
+Queue:16: 
+(100 61 5)
+(96 62 7)
+
+Queue:17: 
+closed
+Queue:18: 
+(10 53 9)
+
+Queue:19: 
+(67 58 7)
+
+Queue:20: 
+(8 55 8)
+
+Time 63
+Queue:1: 
+(65 60 9)
+
+Queue:2: 
+(80 61 9)
+
+Queue:3: 
+(59 50 9)
+
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+(32 46 9)
+
+Queue:9: 
+(72 55 9)
+
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+(81 61 9)
+
+Queue:14: 
+(75 57 8)
+
+Queue:15: 
+closed
+Queue:16: 
+(100 61 5)
+(96 62 7)
+
+Queue:17: 
+(49 63 4)
+
+Queue:18: 
+closed
+Queue:19: 
+(67 58 7)
+
+Queue:20: 
+(8 55 8)
+
+Time 64
+Queue:1: 
+(65 60 9)
+
+Queue:2: 
+(80 61 9)
+
+Queue:3: 
+(59 50 9)
+
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+(32 46 9)
+
+Queue:9: 
+(72 55 9)
+
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+(33 64 9)
+
+Queue:13: 
+(81 61 9)
+
+Queue:14: 
+(75 57 8)
+
+Queue:15: 
+closed
+Queue:16: 
+(100 61 5)
+(96 62 7)
+
+Queue:17: 
+(49 63 4)
+
+Queue:18: 
+closed
+Queue:19: 
+(67 58 7)
+
+Queue:20: 
+(8 55 8)
+
+Time 65
+Queue:1: 
+(65 60 9)
+
+Queue:2: 
+(80 61 9)
+
+Queue:3: 
+(59 50 9)
+
+Queue:4: 
+closed
+Queue:5: 
+(57 65 8)
+
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+(32 46 9)
+
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+(33 64 9)
+
+Queue:13: 
+(81 61 9)
+
+Queue:14: 
+(75 57 8)
+
+Queue:15: 
+(16 65 6)
+
+Queue:16: 
+(100 61 5)
+(96 62 7)
+
+Queue:17: 
+(49 63 4)
+(5 65 7)
+
+Queue:18: 
+closed
+Queue:19: 
+(67 58 7)
+
+Queue:20: 
+(8 55 8)
+
+Time 66
+Queue:1: 
+(65 60 9)
+
+Queue:2: 
+(80 61 9)
+
+Queue:3: 
+(59 50 9)
+
+Queue:4: 
+closed
+Queue:5: 
+(57 65 8)
+
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+(33 64 9)
+
+Queue:13: 
+(81 61 9)
+
+Queue:14: 
+closed
+Queue:15: 
+(16 65 6)
+
+Queue:16: 
+(100 61 5)
+(96 62 7)
+
+Queue:17: 
+(49 63 4)
+(5 65 7)
+
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+(8 55 8)
+
+Time 67
+Queue:1: 
+(65 60 9)
+
+Queue:2: 
+(80 61 9)
+
+Queue:3: 
+(59 50 9)
+
+Queue:4: 
+closed
+Queue:5: 
+(57 65 8)
+(28 67 8)
+
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+(33 64 9)
+
+Queue:13: 
+(81 61 9)
+
+Queue:14: 
+closed
+Queue:15: 
+(16 65 6)
+
+Queue:16: 
+(96 62 7)
+
+Queue:17: 
+(49 63 4)
+(5 65 7)
+
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+(8 55 8)
+
+Time 68
+Queue:1: 
+(65 60 9)
+
+Queue:2: 
+(80 61 9)
+
+Queue:3: 
+(59 50 9)
+
+Queue:4: 
+closed
+Queue:5: 
+(57 65 8)
+(28 67 8)
+
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+(33 64 9)
+
+Queue:13: 
+(81 61 9)
+
+Queue:14: 
+closed
+Queue:15: 
+(16 65 6)
+(69 68 4)
+
+Queue:16: 
+(96 62 7)
+
+Queue:17: 
+(5 65 7)
+
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+(8 55 8)
+
+Time 69
+Queue:1: 
+(65 60 9)
+
+Queue:2: 
+(80 61 9)
+
+Queue:3: 
+(59 50 9)
+
+Queue:4: 
+closed
+Queue:5: 
+(57 65 8)
+(28 67 8)
+
+Queue:6: 
+closed
+Queue:7: 
+(87 69 5)
+
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+(33 64 9)
+
+Queue:13: 
+(81 61 9)
+
+Queue:14: 
+closed
+Queue:15: 
+(16 65 6)
+(69 68 4)
+
+Queue:16: 
+(96 62 7)
+
+Queue:17: 
+(5 65 7)
+
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+(8 55 8)
+
+Time 70
+Queue:1: 
+closed
+Queue:2: 
+(80 61 9)
+
+Queue:3: 
+(59 50 9)
+
+Queue:4: 
+closed
+Queue:5: 
+(57 65 8)
+(28 67 8)
+
+Queue:6: 
+closed
+Queue:7: 
+(87 69 5)
+
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+(33 64 9)
+
+Queue:13: 
+(81 61 9)
+
+Queue:14: 
+closed
+Queue:15: 
+(16 65 6)
+(69 68 4)
+
+Queue:16: 
+(96 62 7)
+
+Queue:17: 
+(5 65 7)
+
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+(8 55 8)
+
+Time 71
+Queue:1: 
+closed
+Queue:2: 
+(80 61 9)
+
+Queue:3: 
+(59 50 9)
+
+Queue:4: 
+closed
+Queue:5: 
+(57 65 8)
+(28 67 8)
+
+Queue:6: 
+closed
+Queue:7: 
+(87 69 5)
+
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+(33 64 9)
+
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+(16 65 6)
+(69 68 4)
+
+Queue:16: 
+(96 62 7)
+
+Queue:17: 
+(5 65 7)
+
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 72
+Queue:1: 
+closed
+Queue:2: 
+(80 61 9)
+
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+(57 65 8)
+(28 67 8)
+
+Queue:6: 
+closed
+Queue:7: 
+(87 69 5)
+
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+(33 64 9)
+
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+(69 68 4)
+
+Queue:16: 
+(96 62 7)
+
+Queue:17: 
+(5 65 7)
+
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 73
+Queue:1: 
+closed
+Queue:2: 
+(80 61 9)
+
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+(57 65 8)
+(28 67 8)
+
+Queue:6: 
+closed
+Queue:7: 
+(87 69 5)
+(11 73 6)
+
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+(33 64 9)
+
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+(69 68 4)
+(36 73 7)
+
+Queue:16: 
+(96 62 7)
+
+Queue:17: 
+(5 65 7)
+
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 74
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+(28 67 8)
+
+Queue:6: 
+closed
+Queue:7: 
+(87 69 5)
+(11 73 6)
+
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+(69 68 4)
+(36 73 7)
+
+Queue:16: 
+(96 62 7)
+
+Queue:17: 
+(5 65 7)
+
+Queue:18: 
+closed
+Queue:19: 
+(48 74 6)
+
+Queue:20: 
+closed
+Time 75
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+(28 67 8)
+
+Queue:6: 
+closed
+Queue:7: 
+(11 73 6)
+
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+(69 68 4)
+(36 73 7)
+
+Queue:16: 
+(96 62 7)
+
+Queue:17: 
+(5 65 7)
+
+Queue:18: 
+closed
+Queue:19: 
+(48 74 6)
+
+Queue:20: 
+closed
+Time 76
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+(28 67 8)
+
+Queue:6: 
+(94 76 5)
+
+Queue:7: 
+(11 73 6)
+
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+(69 68 4)
+(36 73 7)
+
+Queue:16: 
+closed
+Queue:17: 
+(5 65 7)
+
+Queue:18: 
+closed
+Queue:19: 
+(48 74 6)
+(30 76 4)
+
+Queue:20: 
+closed
+Time 77
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+(29 77 7)
+(93 77 8)
+
+Queue:5: 
+(28 67 8)
+
+Queue:6: 
+(94 76 5)
+
+Queue:7: 
+(11 73 6)
+
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+(99 77 4)
+
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+(69 68 4)
+(36 73 7)
+
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+(48 74 6)
+(30 76 4)
+
+Queue:20: 
+closed
+Time 78
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+(29 77 7)
+(93 77 8)
+
+Queue:5: 
+(28 67 8)
+
+Queue:6: 
+(94 76 5)
+
+Queue:7: 
+(11 73 6)
+
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+(99 77 4)
+
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+(36 73 7)
+
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+(48 74 6)
+(30 76 4)
+
+Queue:20: 
+closed
+Time 79
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+(29 77 7)
+(93 77 8)
+
+Queue:5: 
+(28 67 8)
+
+Queue:6: 
+(94 76 5)
+
+Queue:7: 
+(11 73 6)
+
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+(99 77 4)
+(64 79 5)
+
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+(36 73 7)
+
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+(48 74 6)
+(30 76 4)
+
+Queue:20: 
+closed
+Time 80
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+(29 77 7)
+(93 77 8)
+
+Queue:5: 
+(28 67 8)
+
+Queue:6: 
+(94 76 5)
+
+Queue:7: 
+(11 73 6)
+
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+(99 77 4)
+(64 79 5)
+
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+(36 73 7)
+
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+(48 74 6)
+(30 76 4)
+
+Queue:20: 
+closed
+Time 81
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+(29 77 7)
+(93 77 8)
+
+Queue:5: 
+(28 67 8)
+
+Queue:6: 
+(94 76 5)
+
+Queue:7: 
+(11 73 6)
+
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+(99 77 4)
+(64 79 5)
+
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+(36 73 7)
+
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+(30 76 4)
+
+Queue:20: 
+closed
+Time 82
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+(29 77 7)
+(93 77 8)
+
+Queue:5: 
+(28 67 8)
+
+Queue:6: 
+closed
+Queue:7: 
+(11 73 6)
+
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+(64 79 5)
+
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+(53 82 3)
+(60 82 6)
+
+Queue:15: 
+(36 73 7)
+
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+(30 76 4)
+
+Queue:20: 
+closed
+Time 83
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+(29 77 7)
+(93 77 8)
+
+Queue:5: 
+(28 67 8)
+
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+(64 79 5)
+
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+(53 82 3)
+(60 82 6)
+
+Queue:15: 
+(36 73 7)
+
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+(30 76 4)
+
+Queue:20: 
+closed
+Time 84
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+(29 77 7)
+(93 77 8)
+
+Queue:5: 
+closed
+Queue:6: 
+(70 84 3)
+
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+(64 79 5)
+
+Queue:12: 
+closed
+Queue:13: 
+(76 84 6)
+
+Queue:14: 
+(53 82 3)
+(60 82 6)
+
+Queue:15: 
+(36 73 7)
+
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+(84 84 4)
+
+Queue:19: 
+(30 76 4)
+
+Queue:20: 
+closed
+Time 85
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+(93 77 8)
+
+Queue:5: 
+closed
+Queue:6: 
+(70 84 3)
+
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+(64 79 5)
+
+Queue:12: 
+closed
+Queue:13: 
+(76 84 6)
+
+Queue:14: 
+(53 82 3)
+(60 82 6)
+
+Queue:15: 
+(36 73 7)
+
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+(84 84 4)
+(34 85 7)
+
+Queue:19: 
+(30 76 4)
+
+Queue:20: 
+closed
+Time 86
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+(93 77 8)
+
+Queue:5: 
+closed
+Queue:6: 
+(70 84 3)
+
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+(83 86 8)
+
+Queue:10: 
+closed
+Queue:11: 
+(64 79 5)
+
+Queue:12: 
+(77 86 5)
+
+Queue:13: 
+(76 84 6)
+
+Queue:14: 
+(60 82 6)
+
+Queue:15: 
+(36 73 7)
+
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+(84 84 4)
+(34 85 7)
+
+Queue:19: 
+(30 76 4)
+
+Queue:20: 
+closed
+Time 87
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+(93 77 8)
+
+Queue:5: 
+closed
+Queue:6: 
+(70 84 3)
+
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+(83 86 8)
+
+Queue:10: 
+closed
+Queue:11: 
+(64 79 5)
+
+Queue:12: 
+(77 86 5)
+
+Queue:13: 
+(76 84 6)
+
+Queue:14: 
+(60 82 6)
+
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+(84 84 4)
+(34 85 7)
+
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 88
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+(93 77 8)
+
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+(83 86 8)
+
+Queue:10: 
+closed
+Queue:11: 
+(64 79 5)
+
+Queue:12: 
+(77 86 5)
+
+Queue:13: 
+(76 84 6)
+
+Queue:14: 
+(60 82 6)
+
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+(84 84 4)
+(34 85 7)
+
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 89
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+(93 77 8)
+
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+(83 86 8)
+
+Queue:10: 
+(98 89 9)
+
+Queue:11: 
+closed
+Queue:12: 
+(77 86 5)
+
+Queue:13: 
+(76 84 6)
+
+Queue:14: 
+(60 82 6)
+
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+(34 85 7)
+
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 90
+Queue:1: 
+(22 90 9)
+
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+(93 77 8)
+
+Queue:5: 
+closed
+Queue:6: 
+(88 90 7)
+
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+(83 86 8)
+
+Queue:10: 
+(98 89 9)
+
+Queue:11: 
+closed
+Queue:12: 
+(77 86 5)
+
+Queue:13: 
+(76 84 6)
+
+Queue:14: 
+(60 82 6)
+
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+(34 85 7)
+
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 91
+Queue:1: 
+(22 90 9)
+
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+(93 77 8)
+
+Queue:5: 
+closed
+Queue:6: 
+(88 90 7)
+(21 91 5)
+
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+(83 86 8)
+
+Queue:10: 
+(98 89 9)
+
+Queue:11: 
+closed
+Queue:12: 
+(77 86 5)
+
+Queue:13: 
+closed
+Queue:14: 
+(60 82 6)
+
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+(34 85 7)
+
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 92
+Queue:1: 
+(22 90 9)
+
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+(93 77 8)
+
+Queue:5: 
+closed
+Queue:6: 
+(88 90 7)
+(21 91 5)
+
+Queue:7: 
+(97 92 7)
+
+Queue:8: 
+closed
+Queue:9: 
+(83 86 8)
+
+Queue:10: 
+(98 89 9)
+
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+(60 82 6)
+
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+(34 85 7)
+
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 93
+Queue:1: 
+(22 90 9)
+
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+(93 77 8)
+
+Queue:5: 
+closed
+Queue:6: 
+(88 90 7)
+(21 91 5)
+
+Queue:7: 
+(97 92 7)
+
+Queue:8: 
+closed
+Queue:9: 
+(83 86 8)
+
+Queue:10: 
+(98 89 9)
+
+Queue:11: 
+(42 93 3)
+
+Queue:12: 
+(23 93 6)
+
+Queue:13: 
+closed
+Queue:14: 
+(60 82 6)
+
+Queue:15: 
+closed
+Queue:16: 
+(26 93 8)
+
+Queue:17: 
+(56 93 4)
+(91 93 3)
+
+Queue:18: 
+(34 85 7)
+
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 94
+Queue:1: 
+(22 90 9)
+
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+(93 77 8)
+
+Queue:5: 
+closed
+Queue:6: 
+(88 90 7)
+(21 91 5)
+
+Queue:7: 
+(97 92 7)
+
+Queue:8: 
+closed
+Queue:9: 
+(83 86 8)
+
+Queue:10: 
+(98 89 9)
+
+Queue:11: 
+(42 93 3)
+(45 94 4)
+
+Queue:12: 
+(23 93 6)
+
+Queue:13: 
+(78 94 7)
+
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+(26 93 8)
+
+Queue:17: 
+(56 93 4)
+(91 93 3)
+
+Queue:18: 
+(34 85 7)
+
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 95
+Queue:1: 
+(22 90 9)
+
+Queue:2: 
+(4 95 8)
+
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+(88 90 7)
+(21 91 5)
+
+Queue:7: 
+(97 92 7)
+
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+(98 89 9)
+
+Queue:11: 
+(42 93 3)
+(45 94 4)
+
+Queue:12: 
+(23 93 6)
+
+Queue:13: 
+(78 94 7)
+
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+(26 93 8)
+
+Queue:17: 
+(56 93 4)
+(91 93 3)
+
+Queue:18: 
+(34 85 7)
+
+Queue:19: 
+(90 95 3)
+
+Queue:20: 
+closed
+Time 96
+Queue:1: 
+(22 90 9)
+
+Queue:2: 
+(4 95 8)
+
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+(88 90 7)
+(21 91 5)
+
+Queue:7: 
+(97 92 7)
+
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+(98 89 9)
+
+Queue:11: 
+(42 93 3)
+(45 94 4)
+
+Queue:12: 
+(23 93 6)
+
+Queue:13: 
+(78 94 7)
+
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+(26 93 8)
+
+Queue:17: 
+(56 93 4)
+(91 93 3)
+
+Queue:18: 
+(34 85 7)
+
+Queue:19: 
+(90 95 3)
+(18 96 6)
+(85 96 9)
+
+Queue:20: 
+closed
+Time 97
+Queue:1: 
+(22 90 9)
+
+Queue:2: 
+(4 95 8)
+
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+(88 90 7)
+(21 91 5)
+
+Queue:7: 
+(97 92 7)
+
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+(98 89 9)
+
+Queue:11: 
+(45 94 4)
+
+Queue:12: 
+(23 93 6)
+
+Queue:13: 
+(78 94 7)
+(95 97 5)
+
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+(26 93 8)
+
+Queue:17: 
+(56 93 4)
+(91 93 3)
+
+Queue:18: 
+(34 85 7)
+
+Queue:19: 
+(90 95 3)
+(18 96 6)
+(85 96 9)
+
+Queue:20: 
+closed
+Time 98
+Queue:1: 
+(22 90 9)
+
+Queue:2: 
+(4 95 8)
+
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+(21 91 5)
+
+Queue:7: 
+(97 92 7)
+
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+(98 89 9)
+
+Queue:11: 
+(45 94 4)
+
+Queue:12: 
+(23 93 6)
+
+Queue:13: 
+(78 94 7)
+(95 97 5)
+
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+(26 93 8)
+
+Queue:17: 
+(91 93 3)
+
+Queue:18: 
+closed
+Queue:19: 
+(90 95 3)
+(18 96 6)
+(85 96 9)
+
+Queue:20: 
+closed
+Time 99
+Queue:1: 
+(22 90 9)
+
+Queue:2: 
+(4 95 8)
+
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+(21 91 5)
+
+Queue:7: 
+(97 92 7)
+
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+(45 94 4)
+
+Queue:12: 
+(23 93 6)
+
+Queue:13: 
+(78 94 7)
+(95 97 5)
+
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+(26 93 8)
+
+Queue:17: 
+(91 93 3)
+
+Queue:18: 
+closed
+Queue:19: 
+(18 96 6)
+(85 96 9)
+
+Queue:20: 
+closed
+Time 100
+Queue:1: 
+closed
+Queue:2: 
+(4 95 8)
+(61 100 7)
+
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+(21 91 5)
+
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+(45 94 4)
+
+Queue:12: 
+closed
+Queue:13: 
+(78 94 7)
+(95 97 5)
+
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+(26 93 8)
+
+Queue:17: 
+(91 93 3)
+
+Queue:18: 
+closed
+Queue:19: 
+(18 96 6)
+(85 96 9)
+
+Queue:20: 
+closed
+Time 101
+Queue:1: 
+closed
+Queue:2: 
+(4 95 8)
+(61 100 7)
+
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+(21 91 5)
+
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+(45 94 4)
+
+Queue:12: 
+closed
+Queue:13: 
+(78 94 7)
+(95 97 5)
+
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+(26 93 8)
+
+Queue:17: 
+(91 93 3)
+
+Queue:18: 
+closed
+Queue:19: 
+(18 96 6)
+(85 96 9)
+
+Queue:20: 
+closed
+Time 102
+Queue:1: 
+closed
+Queue:2: 
+(4 95 8)
+(61 100 7)
+
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+(21 91 5)
+
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+(45 94 4)
+
+Queue:12: 
+closed
+Queue:13: 
+(95 97 5)
+
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+(91 93 3)
+
+Queue:18: 
+closed
+Queue:19: 
+(18 96 6)
+(85 96 9)
+
+Queue:20: 
+closed
+Time 103
+Queue:1: 
+closed
+Queue:2: 
+(4 95 8)
+(61 100 7)
+
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+(21 91 5)
+
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+(95 97 5)
+
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+(18 96 6)
+(85 96 9)
+
+Queue:20: 
+closed
+Time 104
+Queue:1: 
+closed
+Queue:2: 
+(61 100 7)
+
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+(21 91 5)
+
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+(95 97 5)
+
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+(18 96 6)
+(85 96 9)
+
+Queue:20: 
+closed
+Time 105
+Queue:1: 
+closed
+Queue:2: 
+(61 100 7)
+
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+(95 97 5)
+
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+(18 96 6)
+(85 96 9)
+
+Queue:20: 
+closed
+Time 106
+Queue:1: 
+closed
+Queue:2: 
+(61 100 7)
+
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+(95 97 5)
+
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+(18 96 6)
+(85 96 9)
+
+Queue:20: 
+closed
+Time 107
+Queue:1: 
+closed
+Queue:2: 
+(61 100 7)
+
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+(95 97 5)
+
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+(85 96 9)
+
+Queue:20: 
+closed
+Time 108
+Queue:1: 
+closed
+Queue:2: 
+(61 100 7)
+
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+(95 97 5)
+
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+(85 96 9)
+
+Queue:20: 
+closed
+Time 109
+Queue:1: 
+closed
+Queue:2: 
+(61 100 7)
+
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+(85 96 9)
+
+Queue:20: 
+closed
+Time 110
+Queue:1: 
+closed
+Queue:2: 
+(61 100 7)
+
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+(85 96 9)
+
+Queue:20: 
+closed
+Time 111
+Queue:1: 
+closed
+Queue:2: 
+(61 100 7)
+
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+(85 96 9)
+
+Queue:20: 
+closed
+Time 112
+Queue:1: 
+closed
+Queue:2: 
+(61 100 7)
+
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+(85 96 9)
+
+Queue:20: 
+closed
+Time 113
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+(85 96 9)
+
+Queue:20: 
+closed
+Time 114
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+(85 96 9)
+
+Queue:20: 
+closed
+Time 115
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+(85 96 9)
+
+Queue:20: 
+closed
+Time 116
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+(85 96 9)
+
+Queue:20: 
+closed
+Time 117
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+(85 96 9)
+
+Queue:20: 
+closed
+Time 118
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 119
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 120
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 121
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 122
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 123
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 124
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 125
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 126
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 127
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 128
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 129
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 130
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 131
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 132
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 133
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 134
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 135
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 136
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 137
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 138
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 139
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 140
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 141
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 142
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 143
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 144
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 145
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 146
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 147
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 148
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 149
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 150
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 151
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 152
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 153
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 154
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 155
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 156
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 157
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 158
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 159
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 160
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 161
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 162
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 163
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 164
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 165
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 166
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 167
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 168
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 169
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 170
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 171
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 172
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 173
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 174
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 175
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 176
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 177
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 178
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 179
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 180
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 181
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 182
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 183
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 184
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 185
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 186
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 187
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 188
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 189
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 190
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 191
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 192
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 193
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 194
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 195
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 196
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 197
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 198
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 199
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Time 200
+Queue:1: 
+closed
+Queue:2: 
+closed
+Queue:3: 
+closed
+Queue:4: 
+closed
+Queue:5: 
+closed
+Queue:6: 
+closed
+Queue:7: 
+closed
+Queue:8: 
+closed
+Queue:9: 
+closed
+Queue:10: 
+closed
+Queue:11: 
+closed
+Queue:12: 
+closed
+Queue:13: 
+closed
+Queue:14: 
+closed
+Queue:15: 
+closed
+Queue:16: 
+closed
+Queue:17: 
+closed
+Queue:18: 
+closed
+Queue:19: 
+closed
+Queue:20: 
+closed
+Average service time 0.7
+Peak hour 73
